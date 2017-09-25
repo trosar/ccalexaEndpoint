@@ -1,1 +1,1 @@
-# ccalexa - base app
+# ccalexa - base application
